@@ -1,4 +1,4 @@
-<h1>OLÁ! BEM-VINDO(A) AO MEU PERFIL! </h1>
+<h1>Olá! Bem-vindo(a) ao meu perfil!</h1>
 
 <div>
   <a href="https://github.com/jukarolyne">
