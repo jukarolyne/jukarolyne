@@ -30,7 +30,7 @@ Aplicativo de **reservas hoteleiras** com modelo de Machine Learning integrado p
 - Pipeline de dados com Pandas e SQL
 - Problema real com impacto direto em gestão de receita
 
-#### [Otimização de Fila de Merenda Escolar](https://github.com/jukarolyne/otimizacao-fila-merenda)
+#### 🧑‍🏫 [Otimização de Fila de Merenda Escolar](https://github.com/jukarolyne/otimizacao-fila-merenda)
 Programa para otimizar a fila de merenda escolar, com o objetivo de tornar justa a organização dos estudantes.
 
 - Otimização utilizando Algoritmo Húngaro
